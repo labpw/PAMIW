@@ -13,7 +13,8 @@ Aplikacja mobilna powinna działać na urządzeniach mobilnych (telefonach/table
 - **Spójność Wizualna:** Jednolite kolory, czcionki i przyciski w całym ekosystemie.  
 - **Wysokiej Jakości Ikony i Grafika.**  
 - **Odpowiedź Interfejsu:** Długie operacje powinny być sygnalizowane ikoną ładowania.  
-- **Wykorzystanie Gotowych Szablonów:** Możliwość stosowania i wdrażania gotowych szablonów.  
+- **Wykorzystanie Gotowych Szablonów:** Możliwość stosowania i wdrażania gotowych szablonów. 
+- **Walidacja danych** Zrobiona dla UI oraz API 
 **Maksymalna punktacja:** 8
 
 **4. Ustawienia Użytkownika**  
