@@ -48,4 +48,6 @@ Projekt powinien obejmować rozwój:
 - Kluczowym aspektem projektu jest niezawodność i płynna integracja między wszystkimi częściami systemu.
 - Wszystkie komponenty (aplikacja desktopowa/mobilna, webowa/webassembly i Web API) muszą współpracować ze sobą w sposób niezawodny, zapewniając spójne i efektywne działanie.
 
- 
+ **Dokumentacja:**
+ - Projekt powinien być dobrze udokumentowany w pliku MD 
+ - Wszystkie zrealizowane punkty powinny być opisane, wraz z podaniem punktów, które nie zostały zrealizowane  
